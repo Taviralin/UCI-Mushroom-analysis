@@ -5,6 +5,7 @@ This project implements a custom decision tree classifier from scratch using Pyt
 **Key Features**
 
 Custom Decision Tree Implementation: No prebuilt decision tree packages are used. The implementation follows the basic decision tree procedures discussed in lectures, focusing on manually calculating information gain and recursively building the tree.
+
 Data Preprocessing: Handles missing data by ignoring instances or replacing missing values with the column mean, alongside other preprocessing steps.
 
 Complexity Control: Incorporates a stopping_depth parameter in the training procedure to control tree complexity and prevent overfitting.
